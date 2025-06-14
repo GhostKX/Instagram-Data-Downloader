@@ -55,7 +55,7 @@
 </tr>
 </table>
 
-### 🏆 **Why Choose This Toolkit?**
+### 📂 **What's Inside this Toolkit?**
 - **6 Specialized Scripts** - Each optimized for specific scenarios
 - **Military-Grade Reliability** - Robust error handling and retry mechanisms
 - **HD Quality Processing** - Automatic codec optimization with FFmpeg
@@ -470,20 +470,12 @@ This project is for **educational purposes only**. Please respect Instagram's Te
 
 ---
 
-## ⭐ Acknowledgments
-
-- **yt-dlp team** for excellent video downloading capabilities
-- **instaloader contributors** for Instagram-specific functionality
-- **FFmpeg project** for powerful multimedia processing
-
----
-
 <div align="center">
 
 ## 👨‍💻 Author
 
 Developed by **GhostKX**
 
-🌐 **GitHub**: [@GhostKX](https://github.com/GhostKX)
+[![GitHub](https://img.shields.io/badge/GitHub-@GhostKX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostKX)
 
 </div>
