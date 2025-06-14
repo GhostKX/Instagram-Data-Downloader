@@ -3,10 +3,12 @@
 
 <div align="center">
 
-![Instagram Downloader](https://img.shields.io/badge/Instagram-Downloader-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+[![Instagram Downloader](https://img.shields.io/badge/Instagram-Downloader-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=black)](https://opensource.org/licenses/MIT)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/GhostKX/Instagram-Data-Downloader)
+
 
 **Professional-Grade Instagram Content Downloading Toolkit**
 
