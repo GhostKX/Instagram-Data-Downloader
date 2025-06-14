@@ -1,6 +1,5 @@
 import subprocess
 import os
-import datetime
 
 # 🔗 Instagram URL: Can be a post, reel, story, or highlight
 url = "https://www.instagram.com/link/"  # Replace with actual URL
@@ -11,7 +10,6 @@ cookies_path = "cookies.txt"
 # 📁 Output file naming (use playlist index if available)
 output_template = "Instagram/%(playlist_index)03d_%(title)s_%(id)s.%(ext)s"
 
-print("📅", datetime.datetime.now())
 print("📥 Starting download from Instagram...")
 
 try:

@@ -481,6 +481,6 @@ This project is for **educational purposes only**. Please respect Instagram's Te
 
 Developed by **GhostKX**
 
-- 🌐 **GitHub**: [@GhostKX](https://github.com/GhostKX)
+🌐 **GitHub**: [@GhostKX](https://github.com/GhostKX)
 
 </div>
