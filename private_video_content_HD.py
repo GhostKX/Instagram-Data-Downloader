@@ -34,9 +34,6 @@ try:
     else:
         print("❌ Download failed with code:", result.returncode)
 
-
-
-
 except Exception as e:
     print("🚨 An error occurred during download:")
     print(e)
