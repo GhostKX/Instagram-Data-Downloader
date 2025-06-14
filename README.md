@@ -1,4 +1,4 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="28" valign="middle"/> Instagram Content Downloader
+# <a href="https://instagram.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="28" valign="middle"/></a> Instagram Content Downloader
 
 
 <div align="center">
