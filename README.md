@@ -1,4 +1,5 @@
-# 📸 Instagram Content Downloader
+# <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="28" valign="middle"/> Instagram Content Downloader
+
 
 <div align="center">
 
