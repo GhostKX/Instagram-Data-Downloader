@@ -444,6 +444,8 @@ yt-dlp==2025.5.22
 ### **System Dependencies**
 - **Python 3.8+**: Core runtime
 - **FFmpeg**: Video/audio processing
+- **Gallery-dl**: Video/Image downloading
+- **Yt-dlp**: Video downloading
 - **Stable Internet**: Download reliability
 
 ---
