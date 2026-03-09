@@ -9,8 +9,8 @@ video_url = input("📥 Paste the Instagram post or reel URL: ").strip()
 unique_id = uuid.uuid4().hex[:8]
 
 # 📁 Output file paths
-video_dir = "Instagram_temp_video"
-audio_dir = "Instagram_audio"
+video_dir = "../Instagram_temp_video"
+audio_dir = "../Instagram_audio"
 video_file = f"{video_dir}/insta_{unique_id}.mp4"
 mp3_file = f"{audio_dir}/insta_audio_{unique_id}.mp3"
 
