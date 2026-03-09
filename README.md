@@ -4,6 +4,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org)
 [![Instagram Downloader](https://img.shields.io/badge/Instagram-Downloader-E1306C?logo=instagram&logoColor=white)](https://www.instagram.com)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue)](https://www.python.org)
+[![pip](https://img.shields.io/badge/pip-compatible-3776AB?logo=pypi&logoColor=white)](https://pypi.org/)
+[![Virtualenv](https://img.shields.io/badge/Environment-virtualenv-4B8BBE)](https://docs.python.org/3/library/venv.html)
 [![Status](https://img.shields.io/badge/Status-Active-4CAF50)](https://github.com/GhostKX/Instagram-Data-Downloader)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 [![Educational License](https://img.shields.io/badge/License-Educational-green)](https://creativecommons.org/licenses/by-nd/4.0/)
