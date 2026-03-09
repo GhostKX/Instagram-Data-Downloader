@@ -2,8 +2,8 @@
 
 # <a href="https://instagram.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" valign="middle"/></a> Instagram Content Downloader
 
-[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org)
-[![Instagram Downloader](https://img.shields.io/badge/Instagram-Downloader-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com)
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org)
+[![Instagram Downloader](https://img.shields.io/badge/Instagram-Downloader-E1306C?logo=instagram&logoColor=white)](https://www.instagram.com)
 [![Status](https://img.shields.io/badge/Status-Active-4CAF50)](https://github.com/GhostKX/Instagram-Data-Downloader)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 [![Educational License](https://img.shields.io/badge/License-Educational-green)](https://creativecommons.org/licenses/by-nd/4.0/)
@@ -13,7 +13,6 @@
 [![Dependencies: Pillow](https://img.shields.io/badge/Pillow-11.2.1-F4B400)](https://python-pillow.org/)
 [![Dependencies: pycryptodomex](https://img.shields.io/badge/pycryptodomex-3.23.0-1E90FF)](https://pypi.org/project/pycryptodomex/)
 [![Dependencies: requests](https://img.shields.io/badge/requests-2.32.3-1E90FF)](https://pypi.org/project/requests/)
-
 
 
 **Professional-Grade Instagram Content Downloading Toolkit**
